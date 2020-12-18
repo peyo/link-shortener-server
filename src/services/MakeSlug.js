@@ -9,4 +9,4 @@ function MakeSlug(length) {
   return slug;
 }
 
-export default MakeSlug;
+module.exports = MakeSlug;
